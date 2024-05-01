@@ -1,0 +1,2 @@
+--- QUESTÃO 1
+R: A herança na orientação a objeto, é um conceito que permite a simplificação do código por meio da reutilização de atributos e métodos de uma classe para outra, uma classe subclasse herda atributos de uma classe base ou superclasse. Podendo também, adicionar funcionalidades específicas, caso necessário, além das características base herdadas.
