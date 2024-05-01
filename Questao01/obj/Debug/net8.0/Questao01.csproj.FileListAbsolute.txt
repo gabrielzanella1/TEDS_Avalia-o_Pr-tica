@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\bin\Debug\net8.0\Questao01.exe
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\bin\Debug\net8.0\Questao01.deps.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\bin\Debug\net8.0\Questao01.runtimeconfig.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\bin\Debug\net8.0\Questao01.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\bin\Debug\net8.0\Questao01.pdb
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.sourcelink.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\refint\Questao01.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.pdb
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\Questao01.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao01\obj\Debug\net8.0\ref\Questao01.dll

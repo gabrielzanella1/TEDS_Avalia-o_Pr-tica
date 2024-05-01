@@ -1,9 +1,16 @@
 ﻿//---------> Exemplo Prático
 
-// -- Sobrecarga -->
-Corrida monaco = new Corrida():
-monaco.Tempo(5, 1);
+// --  Sobrecarga  -->
+Calc calculadora = new Calc();
 
-monaco.Tempo(4.3, 0.8);
+Console.WriteLine(calculadora.Somar(1, 2));           //Chama o método Somar com os parâmetros(int, int)
+Console.WriteLine(calculadora.Somar(1.5, 2.5));       //Chama o método Somar com os parâmetros(double, double)
+Console.WriteLine(calculadora.Somar(1, 2, 3));        //Chama o método Somar com os parâmetros(int, int, int)
 
-Console.WriteLine(monaco.Tempo);
+// -- Sobreposição -->
+Carro carro = new Carro();
+carro.Ligar();
+
+Bmw m3 = new Bmw();
+m3.Ligar();
+

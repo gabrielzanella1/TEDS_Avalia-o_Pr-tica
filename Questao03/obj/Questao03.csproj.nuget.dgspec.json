@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55419\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj": {}
+    "C:\\Users\\Gabriel\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55419\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj": {
+    "C:\\Users\\Gabriel\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55419\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj",
         "projectName": "Questao03",
-        "projectPath": "C:\\Users\\55419\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj",
-        "packagesPath": "C:\\Users\\55419\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55419\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\Questao03.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\TEDS_Avalia-o_Pr-tica\\Questao03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55419\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
