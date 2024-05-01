@@ -1,7 +1,10 @@
 ﻿//---------> Exemplo Prático
 
-Mae mae = new Mae();
+Funcionario funcionario = new Funcionario("Gabriel", "Primeiro Turno");
+Chefe chefe = new Chefe("Thomas", "Primeiro Turno", 100000);
 
-Filho filho = new Filho(); 
-filho.TipoSanguineo(); //Herdado da Classe Base "Mae".
-filho.GostoMusical(); //Adicionado novo método específico.
+funcionario.Trabalhar();
+chefe.Trabalhar();
+chefe.CriarProduto();
+Console.WriteLine(funcionario.Nome);
+Console.WriteLine(chefe.Bonus);

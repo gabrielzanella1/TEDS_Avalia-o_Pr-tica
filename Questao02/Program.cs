@@ -1,17 +1,19 @@
 ﻿//---------> Exemplo Prático
 
-//rato utiliza o método herdado.
-Rato rato = new Rato();
-rato.Fugir();
+Amazon amazon = new Amazon();
+amazon.PagarComPix();
+amazon.PagarComBoleto();
+amazon.CancelarCompra();
 
-//aguia utiliza o método herdado.
-Aguia aguia = new Aguia();
-aguia.Cacar();
+Magalu magalu = new Magalu();
+magalu.PagarComPix();
+magalu.PagarComBoleto();
+magalu.CancelarCompra();
 
-//piranha utiliza os dois métodos herdados.
-Piranha piranha = new Piranha();
-piranha.Fugir();
-piranha.Cacar();
+Shopee shopee = new Shopee();
+shopee.PagarComPix();
+shopee.PagarComBoleto();
+shopee.CancelarCompra();
 
 
 
