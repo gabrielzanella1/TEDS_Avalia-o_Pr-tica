@@ -2,7 +2,8 @@
 R: A herança na orientação a objeto, é um conceito que permite a simplificação do código por meio da reutilização de atributos e métodos de uma classe para outra, uma classe subclasse herda atributos de uma classe base ou superclasse. Podendo também, adicionar funcionalidades específicas, caso necessário, além das características base herdadas.
 
 --- QUESTÃO 2
-R: Uma interface em C# é um contrato que define um conjunto de métodos, propriedades, eventos e indexadores que uma classe ou estrutura deve implementar. As interfaces não podem ser instanciadas diretamente, mas podem ser implementadas por classes e estruturas. 
+R: Uma interface é um contrato realizado com as subclasses, podendo conter: métodos, propriedades, eventos e indexadores. Estas classes então, tem o papel de definir como isso vai ser feito. 
+Resumindo, a interface declara o que a classe deve fazer (contrato) e a subclasse define como vai fazer isso.
 
 --- QUESTÃO 3
 R: A sobrecarga é usada quando em uma classe possuem dois métodos com o mesmo nome, mas diferenciando-os através de parâmetros ou assinatura. 
