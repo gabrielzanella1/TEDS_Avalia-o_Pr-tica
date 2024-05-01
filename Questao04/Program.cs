@@ -1,4 +1,6 @@
-﻿Produto produto1 = new Produto("Raquete de Tênis", 500.0, 60);
+﻿//---------> Exemplo Prático
+
+Produto produto1 = new Produto("Raquete de Tênis", 500.0, 60);
 produto1.ExibirInformacoes();
 produto1.ValorTotalProduto(produto1.Preco);
 Console.WriteLine();

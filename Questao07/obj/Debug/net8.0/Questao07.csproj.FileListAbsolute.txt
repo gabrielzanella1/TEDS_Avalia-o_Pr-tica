@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.sourcelink.json
