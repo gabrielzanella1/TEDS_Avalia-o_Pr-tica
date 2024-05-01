@@ -1,6 +1,5 @@
 ﻿//---------> Exemplo Prático
 
-//Colocar no prompt do gpt como funciona para as subclasses herdarem atributos.
 Mae mae = new Mae();
 
 Filho filho = new Filho(); 
