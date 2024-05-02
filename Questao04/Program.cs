@@ -1,4 +1,4 @@
-﻿//---------> Exemplo Prático
+﻿//----------> Exemplo Prático
 
 Produto produto1 = new Produto("Raquete de Tênis", 500.0, 60);
 produto1.ExibirInformacoes();
