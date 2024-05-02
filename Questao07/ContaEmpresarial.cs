@@ -29,7 +29,7 @@ public class ContaEmpresarial : Banco{
         
 
     public bool VerificaSaldoMinimo(){
-        if(Saldo <= 1000){
+        if(Saldo - Valor >= 1000){
             Console.WriteLine("Não é possível efetuar a operação de saque pois o saldo mínimo será ultrapassado.");
             return false;
         }else {

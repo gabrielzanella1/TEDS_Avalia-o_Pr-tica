@@ -3,3 +3,13 @@ C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questa
 C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.AssemblyInfo.cs
 C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.csproj.CoreCompileInputs.cache
 C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.sourcelink.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\bin\Debug\net8.0\Questao07.exe
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\bin\Debug\net8.0\Questao07.deps.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\bin\Debug\net8.0\Questao07.runtimeconfig.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\bin\Debug\net8.0\Questao07.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\bin\Debug\net8.0\Questao07.pdb
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\refint\Questao07.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.pdb
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\Questao07.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao07\obj\Debug\net8.0\ref\Questao07.dll
