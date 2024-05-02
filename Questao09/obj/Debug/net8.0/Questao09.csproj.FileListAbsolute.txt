@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.sourcelink.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\bin\Debug\net8.0\Questao09.exe
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\bin\Debug\net8.0\Questao09.deps.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\bin\Debug\net8.0\Questao09.runtimeconfig.json
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\bin\Debug\net8.0\Questao09.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\bin\Debug\net8.0\Questao09.pdb
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\refint\Questao09.dll
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.pdb
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\Questao09.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\TEDS_Avalia-o_Pr-tica\Questao09\obj\Debug\net8.0\ref\Questao09.dll
