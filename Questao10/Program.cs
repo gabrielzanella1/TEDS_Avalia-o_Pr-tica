@@ -1,4 +1,6 @@
-﻿Regular reserva1 = new Regular("Cancun", true);
+﻿//----------> Exemplo Prático
+
+Regular reserva1 = new Regular("Cancun", true);
 reserva1.Verificar();
 reserva1.ReservarVoo();
 reserva1.CancelarVoo();

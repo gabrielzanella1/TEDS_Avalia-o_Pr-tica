@@ -1,4 +1,6 @@
-﻿CartaoCredito compra1 = new CartaoCredito();
+﻿//----------> Exemplo Prático
+
+CartaoCredito compra1 = new CartaoCredito();
 compra1.Bandeira = "Visa";
 compra1.RealizarPagamento();
 compra1.VerificarStatus();

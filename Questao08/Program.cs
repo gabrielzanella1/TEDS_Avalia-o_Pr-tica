@@ -1,4 +1,6 @@
-﻿Ingles cursoIngles = new Ingles("Intensivo Inglês", "Concluido", "Avançado", 85);
+﻿//----------> Exemplo Prático
+
+Ingles cursoIngles = new Ingles("Intensivo Inglês", "Concluido", "Avançado", 85);
 cursoIngles.AdicionaNota(6.3);
 cursoIngles.AdicionaNota(6.6);
 cursoIngles.AdicionaNota(6.9);
