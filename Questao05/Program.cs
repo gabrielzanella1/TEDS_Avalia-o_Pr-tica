@@ -6,7 +6,7 @@ filme1.Verificar();
 filme1.Devolver();
 Console.WriteLine();
 
-//------------------------------------------------------
+//-----------------------------------------------------
 
 Filme filme2 = new Filme("Interestelar", "Ficção Científica", 3, false);
 filme2.Verificar();
